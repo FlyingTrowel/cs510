@@ -192,7 +192,7 @@ int main() {
         }
         
         //third var
-        for(i=0; i<totalRow; i=i+2)
+        for(i=0; i<totalRow; i=i+2) 
         {
             table[i][2] = 1;
             table[i+1][2] = 0;
